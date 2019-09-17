@@ -1,0 +1,250 @@
+	@media(max-width: 1199px){
+
+	}
+	@media(max-width: 991px){
+		.social-link li a {
+			width: 20px !important;
+			height: 20px !important;   
+			line-height: 20px !important;						
+			font-size: 12px !important;
+		}
+		.social-link li span {
+			right: -128% !important;
+		}
+		.navbar-nav .nav-item a {
+			display: inline-block !important;
+			font-size: 14px !important;
+		}
+		.navbar-nav .nav-item {
+			margin-left: auto !important;
+			padding-top: 5px !important;
+			padding-bottom: 5px !important;
+		}
+		.banner-content h1 {
+			font-size: 40px !important;
+			padding-bottom: 30px !important;
+		}
+		.banner-content p{
+			font-size: 14px !important;
+		}
+		.nav{
+			margin-top: 40px !important;
+		}
+		.banner-content li a {
+			padding: 6px 6px !important;
+		}
+		.about-me-content h2 {
+			padding-bottom: 40px !important;
+			font-size: 30px !important;
+			padding-top: 45px !important;
+		}
+		.about-me-content h1 {
+			content: "";
+			top: 37px !important;
+			font-size: 55px !important;
+		}
+		.about-me-content p {
+			font-size: 15px !important;
+		}
+		.about-me,.resume-section,.work-section {
+			padding: 3em 0 !important;
+		}
+		.heading h2 {
+			font-size: 30px !important;
+		}
+		.heading h1 {
+			content: "";
+			top: -8px !important;
+			font-size: 55px !important;
+		}
+		.front-heading h5 {
+			font-size: 21px !important;
+		}
+		.skill p,.skill1 p,.skill2 p,.skill3 p {
+			font-size: 11px !important;
+		}
+		.skill:hover p,.skill1:hover p,.skill2:hover p,
+		.skill3:hover p {
+			bottom: 40% !important;
+			transform: translate(-50%,50%) !important;
+		}
+		.resume-section .heading,.work-section .heading {
+			padding-bottom: 30px !important;
+		}
+		.resume span {
+			padding-bottom: 20px !important;
+		}
+		.resume-box h4 {
+			font-size: 16px !important;
+		}
+		.resume-box h3 {
+			font-size: 19px !important;
+		}
+		.resume-box h6 {
+			font-size: 14px !important;
+			padding-bottom: 15px !important;
+		}
+		.resume-box p {
+			max-width: 300px !important;
+		}
+		.resume-content {
+			padding-bottom: 30px !important;
+		}
+		.work-section .work-image {
+			padding-left: 10px !important;
+			padding-right: 10px !important;
+			padding-top: 10px !important;
+			padding-bottom: 10px !important;
+		}
+		.work-section .work-image img {
+			height: 100% !important; 
+		}
+		.question-content h2 {
+			font-size: 30px !important;
+		}
+		.question-content h1 {
+			font-size: 30px !important;
+		}
+		.question-section .button .btn-custom {
+			border-bottom-right-radius: 17px !important;
+			font-size: 17px !important;
+			padding: 10px 15px !important;
+			margin-left: 35px !important;
+		}
+		.embed-responsive-21by9::before {
+			padding-top: 72.857143% !important;
+		}
+		.social-section {
+			padding-bottom: 50px !important;
+		}
+		.social-section a {
+			padding: 10px 0 !important;
+		}
+		.social-section a ul li i {
+			font-size: 40px !important;
+		}
+		.social-section a ul li h2 {
+			font-size: 25px !important;
+		}
+		footer .row {
+			min-height: 50px !important;
+		}
+	}
+	@media(max-width: 767px){
+		.banner-content li a {
+			padding: 6px 6px !important;
+			font-size: 14px !important;
+		}
+		.about-me-content h2 {
+			padding-bottom: 36px !important;
+			font-size: 28px !important;
+			padding-top: 45px !important;
+		}
+		.about-me-content h1{
+			content: "";
+			top: 37px !important;
+			font-size: 50px !important;
+		}
+		.heading h2 {
+			font-size: 28px !important;
+			padding-bottom: 10px !important;
+		}
+		.heading h1 {
+			content: "";
+			top: -8px !important;
+			font-size: 50px !important;
+		}
+		.resume-box::before {
+			display: none;
+		}
+		.resume-box::after {
+			display: none;
+		}
+		.resume span {
+			padding-bottom: 20px !important;
+			text-align: center !important;
+		}
+		.resume-content {
+			padding-bottom: 30px !important;
+			text-align: center !important;
+		}
+		.resume-box h4 {
+			font-size: 16px !important;
+			margin: auto;
+		}
+		.resume-box h6 {
+			font-size: 14px !important;
+			padding-bottom: 10px !important;
+		}
+		.resume-box:hover .resume-content{
+			padding-left: 0 !important;
+		}
+		.resume .row > div{
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+
+		}
+		.work-section ul {
+
+			padding-bottom: 15px !important;
+		}
+		.work-section ul li {
+			padding: 0 14px !important;
+		}
+		.work-section ul li a {
+			border: 1px solid #505050 !important;   
+			padding: 0px 10px !important;
+			font-size: 14px !important;
+		}
+		.work-section ul li a:hover{
+			border: 1px solid #505050 !important;   
+		}
+		.question-content h2,h1 {
+			font-size: 20px !important;
+		}
+		.question-section .button .btn-custom {
+			border-bottom-right-radius: 15px !important;
+			font-size: 15px !important;
+			padding: 7px 15px !important;
+			margin-left: auto !important;
+		}
+		.social-section {
+			padding-bottom: 30px !important;
+		}
+	}
+	@media(max-width: 575px){
+.heading h1 {
+    content: "";
+    top: -3px !important;
+    font-size: 40px !important;
+}
+.resume-box p {
+    max-width: 300px !important;
+    margin: auto !important;
+}
+.resume-content {
+    padding-bottom: 60px !important;
+    text-align: center !important;
+}
+.work-section ul li {
+    padding: 0 7px !important;
+}
+.work-section ul li a {
+    padding: 5px 10px !important;
+    font-size: 12px !important;
+}
+.question-section .row > div {
+    border-bottom-right-radius: 40px !important;
+}
+.question-content h1 {
+    font-size: 18px !important;
+}
+.question-section .button .btn-custom {
+    font-size: 14px !important;
+    padding: 5px 12px !important;
+}
+.about-me-content p {
+    font-size: 14px !important;
+}
+
+	}
